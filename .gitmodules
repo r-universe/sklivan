@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ineq.2d"]
 	path = ineq.2d
 	url = https://github.com/sklivan/ineq.2d
-	shallow = true
-	registered = true
